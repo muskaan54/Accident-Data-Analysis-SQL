@@ -51,4 +51,3 @@ Below are the main SQL queries used in this analysis:
 
 This project provides valuable insights into accident data using SQL queries. The analysis covers accident counts by area, day of the week, weather conditions, and more. It also explores relationships between the age of vehicles and accident trends. The findings can be used to implement safety measures and improve road conditions.
 
-For more details on the database schema and data, refer to the data documentation provided in the dataset.
